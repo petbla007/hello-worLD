@@ -1,5 +1,3 @@
-# hello-world
-My first test repository
+# Sample 1
 
-Změna pro redme-edits
-Hlavní větev repozitory
+==============================
